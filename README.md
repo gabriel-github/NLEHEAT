@@ -16,5 +16,8 @@ Technologies:
  - ts-node-dev
  - Vite
  - Sass
+ - expo-auth-session
+ - Moti
+ - Async storage
 
 #building the future 🚀🚀
