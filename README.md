@@ -14,5 +14,7 @@ Technologies:
  - Exoress
  - Dotenv
  - ts-node-dev
+ - Vite
+ - Sass
 
 #building the future 🚀🚀
